@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,node,express,html,css,wasm)](https://skillicons.dev)
 
 - 🔭 I’m currently working as experienced computer engineer in web domain
 - 🌱 I’m currently learning Golang 
