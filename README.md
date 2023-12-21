@@ -1,5 +1,7 @@
 ### 👋 Hi there I'm Kekin Chheda, Fullstack web developer :man_technologist:
 
+![](https://github.com/chheda-kekin/chheda-kekin/blob/main/github_profile_img2.gif)
+
 ## Tools & technologies I use on daily basis
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,html,css,mysql,mongodb,git)](https://skillicons.dev)
 
