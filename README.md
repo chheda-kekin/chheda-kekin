@@ -10,6 +10,8 @@
 - :climbing: Side hustling.
 
 ## 📫 How to reach me
+- 📧 kekincchheda@gmail.com
+- https://www.linkedin.com/in/kekincchheda/
 <!--
 **chheda-kekin/chheda-kekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
