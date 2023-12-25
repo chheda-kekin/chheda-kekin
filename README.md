@@ -4,10 +4,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,html,css,mysql,mongodb,git)](https://skillicons.dev)
 
 ## About me
-- 🔭 Currently working as experienced computer engineer in web domain
+- 🔭 Currently working as experienced ReactJS & React Native developer
 - 🌱 Currently learning DSA
--  Looking forward to contribute in few of the web related open source projects.
-- :climbing: Side hustling.
+-  Looking forward to contribute in few of the web related open source projects
+- :climbing: Side hustling
 
 ## 📫 How to reach me
 - 📧 kekincchheda@gmail.com
