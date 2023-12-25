@@ -6,7 +6,7 @@
 ## About me
 - 🔭 Working as experienced ReactJS & React Native developer
 - 🌱 Currently learning DSA
-- 😃 Looking forward to contribute in few of the web related open source projects
+- 😃 Looking forward to contribute in web related open source projects
 - :climbing: Side hustling
 
 ## 📫 How to reach me
