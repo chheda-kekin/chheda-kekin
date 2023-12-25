@@ -4,9 +4,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,html,css,mysql,mongodb,git)](https://skillicons.dev)
 
 ## About me
-- 🔭 I’m currently working as experienced computer engineer in web domain
-- 🌱 I’m currently learning DSA
--  I’m looking forward to contribute in few of the web related open source projects.
+- 🔭 Currently working as experienced computer engineer in web domain
+- 🌱 Currently learning DSA
+-  Looking forward to contribute in few of the web related open source projects.
 - :climbing: Side hustling.
 
 ## 📫 How to reach me
