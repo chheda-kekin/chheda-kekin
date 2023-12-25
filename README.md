@@ -1,7 +1,7 @@
 ### 👋 Hi there I'm Kekin Chheda, Fullstack web developer :man_technologist:
 
 ## Tools & technologies I use on daily basis
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,native,angular,nodejs,express,html,css,mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,react-native,angular,nodejs,express,html,css,mysql,mongodb,git)](https://skillicons.dev)
 
 ## About me
 - 🔭 Working as experienced ReactJS & React Native developer
