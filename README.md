@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,html,css,mysql,mongodb,git)](https://skillicons.dev)
 
 ## About me
-- 🔭 Currently working as experienced ReactJS & React Native developer
+- 🔭 Working as experienced ReactJS & React Native developer
 - 🌱 Currently learning DSA
 -  Looking forward to contribute in few of the web related open source projects
 - :climbing: Side hustling
