@@ -5,7 +5,7 @@
 
 ## About me
 - 🔭 Working as experienced ReactJS & Angular developer
-- 🌱 Currently learning React Native
+- 🌱 Know Cross platform mobile development using React Native
 - 😃 Looking forward to contribute in web related open source projects
 - :climbing: Side hustling
 
