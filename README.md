@@ -1,4 +1,4 @@
-### 👋 Hi there I'm Kekin Chheda, Fullstack web developer :man_technologist:
+### 👋 Hi there I'm Kekin Chheda, Sr SDE :man_technologist:
 
 ## Tools & technologies I use on daily basis
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,angular,js,ts,html,css,mysql,mongodb,git)](https://skillicons.dev)
